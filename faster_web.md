@@ -1,5 +1,6 @@
 # Let's Make the Web Faster
 ## Ilya Grigorik
+http://bit.ly/faster_rails
 
 Most web pages load between context switch and starting a new task. Too slow.
 
